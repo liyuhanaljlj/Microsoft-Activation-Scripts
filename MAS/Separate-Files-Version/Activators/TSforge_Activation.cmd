@@ -1,16 +1,7 @@
 @set masver=3.0
 @echo off
 
-
-
-::============================================================================
-::
-::   Homepage: mass grave[.]dev
-::      Email: mas.help@outlook.com
-::
-::============================================================================
-
-
+你好中国
 
 ::  To activate Windows, run the script with "/Z-Windows" parameter or change 0 to 1 in below line
 set _actwin=0

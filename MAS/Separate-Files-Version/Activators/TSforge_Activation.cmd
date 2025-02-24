@@ -372,7 +372,7 @@ echo:
 echo:
 echo        ______________________________________________________________
 echo: 
-echo               [1] Activate - Windows
+echo               [1] 激活 - Windows
 echo               [2] Activate - Windows [ESU]
 echo               [3] Activate - Office  [All]
 echo               [4] Activate - Office  [Project/Visio]
